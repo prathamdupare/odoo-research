@@ -1,3 +1,5 @@
+[Notebook](https://notebooklm.google.com/notebook/6d0d1658-55a2-4ab1-bc8e-5836e158a843) - This notebook has all the context of full odoo Codebase.
+
 Odoo's data management relies on a modular structure and a robust data layer that includes an **Object Relational Mapper (ORM)** interacting with a relational database, typically **PostgreSQL**. The sources provide insights into the structural elements and key components involved in this data management.
 
 **Directory Structure and Core Components:**
