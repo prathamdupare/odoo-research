@@ -1,4 +1,3 @@
-
 Odoo's data management relies on a modular structure and a robust data layer that includes an **Object Relational Mapper (ORM)** interacting with a relational database, typically **PostgreSQL**. The sources provide insights into the structural elements and key components involved in this data management.
 
 **Directory Structure and Core Components:**
